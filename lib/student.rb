@@ -7,6 +7,9 @@ class Student
     @name = name
     @album = album
   end
+  
+  
+  
 
   
 end
